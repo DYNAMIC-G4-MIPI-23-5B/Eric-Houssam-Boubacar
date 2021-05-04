@@ -35,7 +35,7 @@ Swarms usually consist of a queen and worker bees circling around the queen. A s
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
-## Lien vers page de blog : <a href="blog.md"> C'est ici ! </a>
+## Lien vers page de blog : <a href="https://github.com/DYNAMIC-G4-MIPI-23-5B/Eric-Houssam-Boubacar/blob/3c3086bcaf3b653f8a8c68faa3e3debc2d92db41/blog.md"> C'est ici ! </a>
 
 ## Bibliographie :
 
