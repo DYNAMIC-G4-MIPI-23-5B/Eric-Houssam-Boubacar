@@ -1,29 +1,32 @@
 # Nom du projet
 
-Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
+Sujet: Le comportement des essaims d'abeilles en fonction de leur environnement
+Objectif:
 
 ## English version
 
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+Title: The behaviorof bee swarms according to their environment
+A bee swarms is how bees reproduce with each other within a colony.
+Swarms usually consist of a queen and worker bees circling around the queen. A swarming tends to seperate the bees ( in several colonnies), morever this phenomenon occurs mainlyin the spring and lasts( depending on the environment around the bees) two to three weeks. There are artifial swarms which are producing by humans, essentially making it possible to regulate the supply of honey in beekeeping.
 
 ## Présentation de l'équipe
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
+|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | 
 |-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
+| B. Ba| H.E Sensaoui | E. Futo 
 
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique :** Comment se comportent les essaims d'abeilles?
 
-**Hypothèse principale :**
+**Hypothèse principale :** Un essaim sans reine est voué à ne pas pouvoir proliférer
 
-**Hypothèses secondaires :** 
+**Hypothèses secondaires :** Plusieurs reines donnent plusieurs essaims
 
-**Objectifs :**
+**Objectifs :** Identifier et montrer les actions et comportements que les essaims d'abeilles nous occtroient, ajouté à ce qui leur entourent en termes de localisation.
 
-**Critère(s) d'évaluation :**
+**Critère(s) d'évaluation :** 
 
 ## Présentation structurée des résultats
 
