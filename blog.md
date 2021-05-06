@@ -22,17 +22,17 @@
    -Travail de la semaine accentué sur le carnet de bord 
 
 ### Semaine 5:29 Mars-2 Avril
-    -On commence à bien cerner le sujet et à proposer des codes pour la modélisation 
-    -On continue la lecture des articles 
+   -On commence à bien cerner le sujet et à proposer des codes pour la modélisation 
+   -On continue la lecture des articles 
     
 ### Semaine 6:5-9 Avril
-    -On continue à faire nos codes:Modélisation
-    -Correction des codes de la seemaine précédente
-    -On fixe le modèle: le rôle joué par la reine des abeilles par exemple, celui des ouvrières ou des faux bourdons
+   -On continue à faire nos codes:Modélisation
+   -Correction des codes de la seemaine précédente
+   -On fixe le modèle: le rôle joué par la reine des abeilles par exemple, celui des ouvrières ou des faux bourdons
     
 ### Semaine 7:12-16 Avril
-    -On continue la modélisation
-    -Organisation du travail durant les vacances
+   -On continue la modélisation
+   -Organisation du travail durant les vacances
     -Fixation des objectifs
  
  
