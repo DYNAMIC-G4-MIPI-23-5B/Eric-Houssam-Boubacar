@@ -37,11 +37,11 @@
  
  
 ### Semaine 8-9:19-30 Avril Semaines de vacances 
-    -Préparation à la soutenace du projet
-    -Modélisation
+   -Préparation à la soutenace du projet
+   -Modélisation
     
 ### Semaine 10: 3-7 Mai
-    -Création des fichiers de notre site Github
-    -Remplissage des fichiers
-    -Derniers réglages avant la soutenance
+   -Création des fichiers de notre site Github
+   -Remplissage des fichiers
+   -Derniers réglages avant la soutenance
 
