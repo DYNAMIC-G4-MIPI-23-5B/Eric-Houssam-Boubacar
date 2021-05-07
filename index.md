@@ -28,6 +28,7 @@ Swarms usually consist of a queen and worker bees circling around the queen. A s
 
 **Hypothèses secondaires :** Plusieurs reines donnent plusieurs essaims
 
+
 **Objectifs :** Identifier et montrer les actions et comportements que les essaims d'abeilles nous occtroient, ajouté à ce qui leur entourent en termes de localisation.
 
 **Critère(s) d'évaluation :** 
