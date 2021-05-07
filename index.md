@@ -36,7 +36,10 @@ Swarms usually consist of a queen and worker bees circling around the queen. A s
 ## Présentation structurée des résultats
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
-
+En Python.
+- Les résultats etaient censés montrer différents tableaux : représentant les abeilles, la ruche, et l'espace où les ouvrières prennent la nourriture.
+- Analyse critique: plusieurs abeilles pouvaient avoir un même emplacement de coordonnées, ce qui faisait que l'on pouvait pas savoir où elles se trouvaient toutes.
+- Des problèmes de coordonnées apparaissent aussi durant l'essaimage
 ## Lien vers page de blog : <a href="blog.md"> C'est ici ! </a>
 
 ## Bibliographie :
