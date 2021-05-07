@@ -1,11 +1,11 @@
 # Nom du projet
 
 Sujet: Le comportement des essaims d'abeilles en fonction de leur environnement
-Objectif:
-Méthodologie:
-- Utilisation de documents et d'articles traitant du fonctionnement des essaims et de la dynamique des abeilles
-- S'apuyer sur des textes académiques sur les connaissances biologiques des colonies naturelles
-- Utiliser des paramètres et des métriques pour créer un modèle d'un système dynamique expliquant le comportement des abeilles
+- Objectif: Comprendre et faire comprendre à travers un modèle le mode de vie des abeilles en s'interessant à un aspect important de leur vie: l'essaimage qui fait la cause de leur existence.
+- Méthodologie:
+ Utilisation de documents et d'articles traitant du fonctionnement des essaims et de la dynamique des abeilles,
+ S'apuyer sur des textes académiques sur les connaissances biologiques des colonies naturelles,
+ Utiliser des paramètres et des métriques pour créer un modèle d'un système dynamique expliquant le comportement des abeilles.
 
 ## English version
 
