@@ -26,12 +26,12 @@ Swarms usually consist of a queen and worker bees circling around the queen. A s
 
 **Hypothèse principale :** Un essaim sans reine est voué à ne pas pouvoir proliférer
 
-**Hypothèses secondaires :** Plusieurs reines donnent plusieurs essaims
+**Hypothèses secondaires :** Plusieurs reines donnent plusieurs essaims, et l'essaimage est essentiel à la survie des abeilles.
 
 
 **Objectifs :** Identifier et montrer les actions et comportements que les essaims d'abeilles nous occtroient, ajouté à ce qui leur entourent en termes de localisation.
 
-**Critère(s) d'évaluation :** 
+**Critère(s) d'évaluation :** Pertinance, cohérence et explicatif.
 
 ## Présentation structurée des résultats
 
