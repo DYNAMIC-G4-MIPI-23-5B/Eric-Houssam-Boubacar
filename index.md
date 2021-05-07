@@ -40,4 +40,13 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 ## Bibliographie :
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+https://www.amia.co.uk/the-behaviour-of-honey-bees-preparing-to-swarm/
+https://www.amia.co.uk/temperature-and-thermoregulation-in-the-beehive/
+https://www.apiservices.biz/fr/articles/classes-par-popularite/342-l-essaimage-un-comportement-naturel-que-l-apiculteur-doit-maitriser-2003
+https://www.lunevalleybeekeepers.co.uk/swarms/
+https://saveourbees.com.au/bee-swarms-everything_you-need-to-know/
+https://en.wikipedia.org/wiki/Swarming_(honey_bee)
+https://www.mercurynews.com/2019/04/16/why-bees-swarm-and-what-you-should-or-shouldnt-do-about-them/
+https://www.beeculture.com/swarm-signals/
+https://www.apiculture.net/blog/lessaimage-quelques-conseils-base-n17https://www.jardinature.net/abeilles_part2.htm
+https://www.jardinature.net/abeilles_part2.htm
